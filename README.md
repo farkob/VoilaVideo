@@ -1,7 +1,6 @@
 VoilaVideo
 ==========
 Load your videos Facebook style
--------------------------------
 
 Working, but styles and custom play button image haven't finished yet. I'll post docs soon.
 
